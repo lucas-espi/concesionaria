@@ -1,4 +1,118 @@
-.icon-out{
-    color: aliceblue;
-    font-size: 2rem;
+.container_header{
+    width: 100%;
+    background-color:darksalmon;
 }
+.header{
+    max-width: 1200px;
+    height: 3.5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: auto;
+}
+.logo-header{
+    display: none;
+}
+.nav_header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.nav_header > li{
+    list-style-type: none;
+    margin: 0 1rem;
+}
+.nav_header > li > a{
+    text-decoration: none;
+    color: rgb(31, 32, 32);
+    font-size: .9rem;
+    font-weight: 700;
+}
+.nav_iconos_redes{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.nav_iconos_redes > li{
+    list-style-type: none;
+    margin: 0 1rem;
+}
+.nav_iconos_redes > li > a{
+    text-decoration: none;
+    color: rgb(31, 32, 32);
+    font-size: 1rem;
+}
+input, label{
+    display: none;
+}
+label> i{
+    display: none;
+}
+
+@media (max-width:992px){
+    .container_header{
+        background-color:rgb(122, 233, 196);
+    }
+    .logo-header{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        width: 12rem;
+        margin-left: .5rem;
+    }
+    .logo-header > h2 {
+        width: 2rem;
+        font-size: 2rem;
+        margin-right: .2rem;
+    }
+
+    .logo-header > img {
+        width: 3rem;
+    }
+
+    .nav_header{
+        display: none;
+    }
+
+    .nav_iconos_redes{
+        display: none;
+    }
+    label{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 2;
+        height: 2rem;
+        cursor: pointer;  
+        height: auto;
+        margin-right: .5rem;
+    }
+    label > i {
+        display: block;
+        font-size: 2rem;
+    }
+    input {
+        display: none;
+    }
+    #menu-hamburguesa:checked ~  .nav_header{
+        display: flex;
+        position: absolute;
+        margin-top: 3.5rem;
+        right: 0;
+        height: var(--custom-height);
+        width: 22rem;
+        background-color: #2e3031;
+        display: flex;
+        flex-direction: column;
+        padding-top: 3.5rem;
+    }
+    #menu-hamburguesa:checked ~  .nav_header > li{
+        border-top: 1px solid #4a4d4e;
+        width: 90%;
+        height: 3rem;
+    }
+    #menu-hamburguesa:checked ~  .nav_header > li> a{
+        color: azure;
+        font-weight: 500;
+    }
+}        

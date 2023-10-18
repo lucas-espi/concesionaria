@@ -1,12 +1,22 @@
 import './App.css';
 import { Header } from './assets/components/header';
+import { Slider } from './assets/components/slider';
+import { GestoriaHome } from './assets/components/gestoria-seguros';
+import { Whatsapp } from './assets/components/whatsapp-icon';
+import { Footer } from './assets/components/footer';
+import 'bootstrap/dist/css/bootstrap.css';
+
 
 function App() {
 
   return (
     <>
     <Header/>
-    <h1>Estructura de Proyecto creada con react!</h1>
+    <Slider/>
+    {/* Va el filtro de vehiculos */}
+    <GestoriaHome />
+    <Whatsapp/>
+    <Footer/>
     </>
   )
 }

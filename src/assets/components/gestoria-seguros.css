@@ -1,0 +1,14 @@
+.sec1-2, .sec2-2{
+    border-bottom: 1px solid #9ca7b1;
+    margin: 4rem 0;
+    padding-bottom: 4rem;
+}
+.whatsapp-icon{
+    border-radius: 50%;
+    height: 5rem;
+    width: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}

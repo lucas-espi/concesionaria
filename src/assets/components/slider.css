@@ -1,0 +1,16 @@
+.slider-cart{
+    height: var(--custom-height-slider);
+    object-fit: cover;
+}
+.marcas-container {
+    height: 4rem;
+    width: 100%;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 10rem 0;
+}
+.marcas-container img {
+    width: auto; /* Ajusta el ancho de la imagen */
+    height: 100%;
+    margin: 0 4rem;
+}
