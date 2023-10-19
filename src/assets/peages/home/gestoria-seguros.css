@@ -1,0 +1,11 @@
+.sec1-2, .sec2-2{
+    border-bottom: 1px solid #9ca7b1;
+    margin: 4rem auto;
+    padding-bottom: 4rem;
+}
+
+.sec2-2{
+    border-top: 1px solid #9ca7b1;
+    padding-top: 4rem;
+}
+

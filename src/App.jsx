@@ -1,10 +1,10 @@
 import './App.css';
 import { Header } from './assets/components/header';
-import { Slider } from './assets/components/slider';
-import { GestoriaHome } from './assets/components/gestoria-seguros';
 import { Whatsapp } from './assets/components/whatsapp-icon';
 import { Footer } from './assets/components/footer';
-import 'bootstrap/dist/css/bootstrap.css';
+import { Route, Routes } from "react-router-dom";
+import { GestoriaHome} from './assets/peages/home/gestoria-seguros';
+import {Empresa} from './assets/peages/empresa/empresa'
 
 
 function App() {
@@ -12,9 +12,10 @@ function App() {
   return (
     <>
     <Header/>
-    <Slider/>
-    {/* Va el filtro de vehiculos */}
-    <GestoriaHome />
+    <Routes>
+      <Route exact path="/" element={<GestoriaHome />}></Route>
+      <Route exact path="/empresa" element={<Empresa />}></Route>
+    </Routes>
     <Whatsapp/>
     <Footer/>
     </>

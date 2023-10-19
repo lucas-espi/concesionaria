@@ -1,6 +1,5 @@
 .container_header{
     width: 100%;
-    background-color:darksalmon;
 }
 .header{
     max-width: 1200px;
@@ -24,7 +23,6 @@
 }
 .nav_header > li > a{
     text-decoration: none;
-    color: rgb(31, 32, 32);
     font-size: .9rem;
     font-weight: 700;
 }
@@ -39,7 +37,6 @@
 }
 .nav_iconos_redes > li > a{
     text-decoration: none;
-    color: rgb(31, 32, 32);
     font-size: 1rem;
 }
 input, label{
@@ -51,7 +48,6 @@ label> i{
 
 @media (max-width:992px){
     .container_header{
-        background-color:rgb(122, 233, 196);
     }
     .logo-header{
         display: flex;

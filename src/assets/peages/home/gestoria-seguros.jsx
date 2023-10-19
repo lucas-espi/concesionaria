@@ -1,11 +1,12 @@
 import React from "react";
 import "./gestoria-seguros.css"
-import { Marcas } from "./slider";
+import { Marcas, Slider } from "../../components/slider";
 
 export const GestoriaHome = () =>{
     return(
         <>
-        <div className="sec1-2 container d-flex flex-column flex-md-row flex-lg-row justify-content-center ">
+        <Slider/>
+          <div className="sec1-2 container d-flex flex-column flex-md-row flex-lg-row justify-content-center ">
           <div className="card m-2 col-md-5 col-12 shadow-sm">
             <div className="card-body">
               <h4 className="card-title text-info">Seguros</h4>
@@ -23,7 +24,7 @@ export const GestoriaHome = () =>{
         </div>
         <Marcas/>
         <div className="sec2-2 container d-flex flex-column justify-content-center align-items-center mt-4">
-          <h3 className="text-success mb-4 text-center">POR QUE ELEGIR LA CART</h3>
+          <h3 className="text-success mb-5 text-center">POR QUE ELEGIR LA CART</h3>
           <div class="card-deck d-flex flex-column flex-md-row flex-lg-row justify-content-center">
              <div class="card col-md-4 col-12 m-2  shadow-sm">
                <div class="card-body ">

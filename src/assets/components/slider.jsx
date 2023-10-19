@@ -7,22 +7,22 @@ export const Slider = () => {
        <div id="carouselExampleControls" className="carousel slide " data-bs-ride="carousel">
           <div className="carousel-inner ">
             <div className="carousel-item active ">
-              <img src="https://images.pexels.com/photos/707046/pexels-photo-707046.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" className="d-block w-100 slider-cart" alt="i"/>
-              <div class="carousel-caption d-none d-md-block ">
-                <h2 className="fs-1 ">First slide label</h2>
+              <img src="https://images.pexels.com/photos/707046/pexels-photo-707046.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" className="d-block w-100 slider-cart " alt="i"/>
+              <div class="carousel-caption d-none d-md-block bg-dark opacity-75">
+                <h2 className="fs-1">First slide label</h2>
                 <p className="fs-3">Some representative placeholder content for the first slide.</p>
               </div>
             </div>
             <div className="carousel-item">
               <img src="https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" className="d-block w-100 slider-cart" alt="i"/>
-              <div class="carousel-caption d-none d-md-block">
+              <div class="carousel-caption d-none d-md-block bg-dark opacity-75">
               <h2 className="fs-1 ">Second slide label</h2>
               <p className="fs-3">Some representative placeholder content for the first slide.</p>
               </div>
             </div>
             <div className="carousel-item">
             <img src="https://images.pexels.com/photos/210019/pexels-photo-210019.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" className="d-block w-100 slider-cart" alt="i"/>
-              <div class="carousel-caption d-none d-md-block">
+              <div class="carousel-caption d-none d-md-block bg-dark opacity-75">
               <h2 className="fs-1 ">Third slide label</h2>
               <p className="fs-3">Some representative placeholder content for the first slide.</p>
               </div>

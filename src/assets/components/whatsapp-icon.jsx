@@ -1,5 +1,5 @@
 import React from "react";
-import "./gestoria-seguros.css"
+import "./whatsapp.css"
 
 
 

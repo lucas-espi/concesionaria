@@ -1,0 +1,14 @@
+.box-p{
+    margin: auto;
+    border-top: 1px solid #9ca7b1;
+    padding-top: 3rem;
+}
+.box-t{
+    height: 3.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer-text{
+    margin: auto;
+}
