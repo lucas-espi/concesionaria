@@ -1,0 +1,6 @@
+.container-contacto{
+    min-height: var(--custom-height-s);
+}
+.box-contacto{
+    border-bottom: 1px solid #9ca7b1;
+}

@@ -1,0 +1,11 @@
+.box-title-gestoria{
+    max-width: 1200px;
+    margin: 4rem auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.box-title-gestoria button {
+    width: 35%;
+    margin: auto;
+}

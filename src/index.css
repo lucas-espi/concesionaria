@@ -3,4 +3,5 @@
 
   --custom-height: calc(100vh - 3.5rem);
   --custom-height-slider: calc(100vh - 3.5rem);
+  --custom-height-s: calc(100vh - 8rem);
 }

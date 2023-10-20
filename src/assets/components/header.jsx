@@ -29,16 +29,16 @@ export const Header = () => {
           <Link to="#" className="text-light">INVENTARIO</Link>
         </li>
         <li>
-          <Link to="#" className="text-light">GESTORIA</Link>
+          <Link to="/gestoria" className="text-light">GESTORIA</Link>
         </li>
         <li>
-          <Link to="#" className="text-light">SEGUROS</Link>
+          <Link to="/seguros" className="text-light">SEGUROS</Link>
         </li>
         <li>
-          <Link to="#" className="text-light">FINANCIACIÓN</Link>
+          <Link to="/financiacion" className="text-light">FINANCIACIÓN</Link>
         </li>
         <li>
-          <Link to="#" className="text-light">CONTACTO</Link>
+          <Link to="/contacto" className="text-light">CONTACTO</Link>
         </li>
       </nav>
 

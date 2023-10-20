@@ -39,6 +39,7 @@ export const Empresa =() =>{
         </div>
 
 
+
         <h5 className="footer-text bg-dark text-white text-center p-5 mb-5 mt-5 col-10">
         "Estamos orgullosos de nuestro pasado y emocionados por el futuro. Gracias por ser parte de 
         nuestra historia y esperamos ser parte de la tuya."
