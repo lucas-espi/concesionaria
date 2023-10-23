@@ -26,7 +26,7 @@ export const Header = () => {
           <Link to="/empresa" className="text-light">SOBRE LA EMPRESA</Link>
         </li>
         <li>
-          <Link to="#" className="text-light">INVENTARIO</Link>
+          <Link to="/vehiculos" className="text-light">INVENTARIO</Link>
         </li>
         <li>
           <Link to="/gestoria" className="text-light">GESTORIA</Link>

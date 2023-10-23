@@ -9,6 +9,7 @@ import {Gestoria} from './assets/peages/gestoria/gestoria'
 import { Seguros } from './assets/peages/seguros/seguros';
 import { Financiacion } from './assets/peages/financiacion/financiacion';
 import { Contacto } from './assets/peages/conacto/contacto';
+import { Vehiculos } from './assets/peages/vehiculos/vehiculos';
 
 
 
@@ -20,6 +21,7 @@ function App() {
     <Routes>
       <Route exact path="/" element={<GestoriaHome />}></Route>
       <Route exact path="/empresa" element={<Empresa />}></Route>
+      <Route exact path="/vehiculos" element={<Vehiculos/>}></Route>
       <Route exact path="/gestoria" element={<Gestoria />}></Route>
       <Route exact path="/seguros" element={<Seguros />}></Route>
       <Route exact path="/financiacion" element={<Financiacion />}></Route>

@@ -101,6 +101,7 @@ label> i{
         display: flex;
         flex-direction: column;
         padding-top: 3.5rem;
+        z-index: 1;
     }
     #menu-hamburguesa:checked ~  .nav_header > li{
         border-top: 1px solid #4a4d4e;
