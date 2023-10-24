@@ -9,22 +9,22 @@ export const Slider = () => {
             <div className="carousel-item active ">
               <img src="https://images.pexels.com/photos/707046/pexels-photo-707046.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" className="d-block w-100 slider-cart " alt="i"/>
               <div class="carousel-caption d-none d-md-block bg-dark opacity-75">
-                <h2 className="fs-1">First slide label</h2>
-                <p className="fs-3">Some representative placeholder content for the first slide.</p>
+                <h2 className="fs-1">Bmw E46 Blanco</h2>
+                <p className="fs-3">El 'corazón' del BMW M3 E46 es un bloque de 3,2 litros y seis cilindros en línea</p>
               </div>
             </div>
             <div className="carousel-item">
-              <img src="https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" className="d-block w-100 slider-cart" alt="i"/>
+              <img src="https://images.pexels.com/photos/93632/pexels-photo-93632.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" className="d-block w-100 slider-cart" alt="i"/>
               <div class="carousel-caption d-none d-md-block bg-dark opacity-75">
-              <h2 className="fs-1 ">Second slide label</h2>
-              <p className="fs-3">Some representative placeholder content for the first slide.</p>
+              <h2 className="fs-1 ">Mercedes Benz Coupe</h2>
+              <p className="fs-3">Mercedes GLC Coupé está disponible con dos versiones de gasolina y diésel.</p>
               </div>
             </div>
             <div className="carousel-item">
-            <img src="https://images.pexels.com/photos/210019/pexels-photo-210019.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" className="d-block w-100 slider-cart" alt="i"/>
+            <img src="https://images.pexels.com/photos/16444626/pexels-photo-16444626/free-photo-of-puesta-de-sol-limpiar-transporte-ruedas.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" className="d-block w-100 slider-cart" alt="i"/>
               <div class="carousel-caption d-none d-md-block bg-dark opacity-75">
-              <h2 className="fs-1 ">Third slide label</h2>
-              <p className="fs-3">Some representative placeholder content for the first slide.</p>
+              <h2 className="fs-1 ">Volkswagen Golf</h2>
+              <p className="fs-3">El Volkswagen Golf es un automóvil de turismo del segmento C.</p>
               </div>
             </div>
           </div>
