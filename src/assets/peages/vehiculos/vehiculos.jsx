@@ -18,21 +18,28 @@ export const Vehiculos =() => {
   }, []);
 
   return (
-    <div className="App">
-      <h1>Concesionaria de Autos</h1>
-      <ul>
-        {vehicleData.map(vehicle => ( 
-          <li key={vehicle.id}>
-            <h2>{vehicle.title}</h2>
-            <p>{vehicle.description}</p>
-            <p>Precio: ${vehicle.price}</p>
-            {/* Renderiza las imágenes aquí */}
-            {vehicle.images.map(image => (
-              <img key={image} src={image} alt={vehicle.title} />
-            ))}
-          </li>
-        ))}
-      </ul>
+    <div className="container  mb-5 mt-5">
+
+      <h1 className='text-center'>Concesionaria de Autos</h1>
+      
+      <div className=' v-v container'>
+          {vehicleData.map(vehicle => (  
+          <div key={vehicle.id} className=" box-card shadow-sm ">
+              <div className="card-body box-title p-1">
+                <h5>{vehicle.title}</h5>
+              </div>
+              <div className='box-img-v '>
+                  {vehicle.images.map(image => (
+                    <img className='img-car-v' key={image} src={image} alt={vehicle.title} />
+                    ))}
+              </div>
+              <div clasName="card-body box-desc">
+                <p className="card-text p-1">{vehicle.description}</p>
+                <p className="card-text text-success font-weight-bold  p-1">Precio: ${vehicle.price}</p>
+              </div>
+          </div>
+          ))}
+      </div>
     </div>
-  );
+)
 }

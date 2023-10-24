@@ -6,8 +6,8 @@
         "description": "Un compacto deportivo con un potente motor turbo.",
         "price": 30000,
         "images": [
-                    "https://images.pexels.com/photos/17036391/pexels-photo-17036391/free-photo-of-ciudad-puente-rascacielos-coche.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", 
-                    "https://images.pexels.com/photos/14577491/pexels-photo-14577491.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                    "https://images.pexels.com/photos/17036391/pexels-photo-17036391/free-photo-of-ciudad-puente-rascacielos-coche.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                  
                 ]
       },
       {
@@ -16,8 +16,8 @@
         "description": "Elegancia y confort en un sedán familiar.",
         "price": 35000,
         "images": [
-                    "https://images.pexels.com/photos/11490451/pexels-photo-11490451.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", 
-                    "https://www.autoweb.com.ar/wp-content/uploads/2020/04/Lanzamiento_Nuevo_Passat_5.jpg"
+                    "https://images.pexels.com/photos/11490451/pexels-photo-11490451.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+
                 ]
       },
       {
@@ -26,8 +26,8 @@
         "description": "El lujo y el rendimiento se unen en este sedán premium.",
         "price": 45000,
         "images": [
-                    "https://images.pexels.com/photos/18346532/pexels-photo-18346532/free-photo-of-carretera-vehiculo-negro-coche-deportivo.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", 
-                    "https://images.pexels.com/photos/18346525/pexels-photo-18346525/free-photo-of-vehiculo-negro-coche-deportivo-urbano.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                    "https://images.pexels.com/photos/18346532/pexels-photo-18346532/free-photo-of-carretera-vehiculo-negro-coche-deportivo.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+
                 ]
       },
       {
@@ -36,8 +36,8 @@
         "description": "Un SUV de lujo con espacio y potencia.",
         "price": 60000,
         "images": [
-                    "https://images.pexels.com/photos/12532746/pexels-photo-12532746.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", 
-                    "https://images.pexels.com/photos/12532755/pexels-photo-12532755.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                    "https://images.pexels.com/photos/12532746/pexels-photo-12532746.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+
                 ]
       },
       {
@@ -46,8 +46,8 @@
         "description": "El icónico muscle car con un motor V8 impresionante.",
         "price": 40000,
         "images": [
-                    "https://images.pexels.com/photos/544542/pexels-photo-544542.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", 
-                    "https://images.pexels.com/photos/9334965/pexels-photo-9334965.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                    "https://images.pexels.com/photos/544542/pexels-photo-544542.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+
                 ]
       },
       {
@@ -56,8 +56,8 @@
         "description": "Un SUV compacto ideal para la ciudad y la aventura.",
         "price": 28000,
         "images": [
-                    "https://images.pexels.com/photos/1007410/pexels-photo-1007410.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", 
-                    "https://cdn.motor1.com/images/mgl/krwNM/s1/2020-ford-escape.jpg"
+                    "https://images.pexels.com/photos/1007410/pexels-photo-1007410.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+
                 ]
       },
       {
@@ -66,8 +66,8 @@
         "description": "El lujo alemán en un sedán compacto.",
         "price": 50000,
         "images": [
-                    "https://images.pexels.com/photos/17197773/pexels-photo-17197773/free-photo-of-coche-vehiculo-berlina-moderno.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", 
-                    "https://images.pexels.com/photos/17197776/pexels-photo-17197776/free-photo-of-coche-vehiculo-moderno-vista-superior.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                    "https://images.pexels.com/photos/17197773/pexels-photo-17197773/free-photo-of-coche-vehiculo-berlina-moderno.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+
                 ]
       },
       {
@@ -76,8 +76,8 @@
         "description": "Un SUV de lujo con espacio y tecnología de vanguardia.",
         "price": 70000,
         "images": [
-                    "https://images.pexels.com/photos/14719364/pexels-photo-14719364.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", 
-                    "https://images.pexels.com/photos/14719372/pexels-photo-14719372.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                    "https://images.pexels.com/photos/14719364/pexels-photo-14719364.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+
                 ]
       },
       {
@@ -86,18 +86,18 @@
         "description": "Confiabilidad y eficiencia en un sedán familiar.",
         "price": 32000,
         "images": [
-                    "https://images.pexels.com/photos/11285174/pexels-photo-11285174.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", 
-                    "https://images.pexels.com/photos/1073030/pexels-photo-1073030.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                    "https://images.pexels.com/photos/11285174/pexels-photo-11285174.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+
                 ]
       },
       {
         "id": 10,
         "title": "Toyota RAV4",
-        "description": "Un SUV compacto que combina versatilidad y economía de combustible.",
+        "description": "Un SUV compacto que combina versatilidad y economía.",
         "price": 34000,
         "images": [
-                    "https://images.pexels.com/photos/9615358/pexels-photo-9615358.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", 
-                    "https://images.pexels.com/photos/1073031/pexels-photo-1073031.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                    "https://images.pexels.com/photos/9615358/pexels-photo-9615358.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+
                 ]
       }
     ]

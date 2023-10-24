@@ -1,0 +1,35 @@
+.v-v{
+    width: 100%;
+    margin: auto;
+    display: grid;
+    grid-template-rows: auto;
+    grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+    grid-auto-flow: dense;
+    row-gap: .5rem;
+    column-gap: .5rem;
+    justify-content:center;
+    align-items: center;
+}
+
+.box-card{
+    height: 22rem;
+    border: solid #2d2d313b 1px;
+    border-radius: .4rem;
+}
+.box-title{
+    height: 15%;
+}
+
+.box-img-v{
+    width: 100%;
+    height: 50%;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.img-car-v{
+    width: 100%;
+    object-fit: cover;
+    object-position: center center;
+}
+
